@@ -1,7 +1,12 @@
-#BeagleBone Green
-
-##Introduction
------
+---
+title: BeagleBone Green
+category: BeagleBone
+bzurl: https://www.seeedstudio.com/SeeedStudio-BeagleBone-Green-p-2504.html
+oldwikiname: BeagleBone_Green
+prodimagename: cover.jpg
+surveyurl: https://www.research.net/r/seeed_bbg
+sku: 102010027
+---
 
 ![enter image description here](https://github.com/SeeedDocument/BeagleBone_Green/blob/master/images/cover.jpg?raw=true)
 
@@ -352,8 +357,3 @@ There're many references to help you to get more information about the board.
 * [BEAGLEBONE_GREEN Schematic(OrCAD)](https://github.com/SeeedDocument/BeagleBone_Green/raw/master/resources/BEAGLEBONE_GREEN_V1_166%28sch%29.rar)
 * [BEAGLEBONE_GREEN PCB(OrCAD)](https://github.com/SeeedDocument/BeagleBone_Green/blob/master/resources/BeagleBone_Green_v1.166%28board%29.rar)
 
-
-##Help us to make it better
--------
-
-<iframe style="height: 600px; width: 700px; margin: 10px 0 10px;" allowTransparency="true" src="https://www.research.net/r/seeed_bbg" frameborder="0"></iframe>
